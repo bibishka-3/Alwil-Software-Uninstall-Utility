@@ -210,4 +210,4 @@ Alwil Software Uninstall Utility is available as a full free version, providing 
 Ready to effectively remove your Avast! antivirus? Download **Alwil Software Uninstall Utility** now and enjoy a clean system!
 
 ---
-**Last updated:** 2026-10-13 22:29:19 UTC
+**Last updated:** 2026-10-14 01:42:56 UTC
